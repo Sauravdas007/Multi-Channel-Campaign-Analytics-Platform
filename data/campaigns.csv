@@ -1,0 +1,41 @@
+campaign_id,campaign_name,channel,campaign_objective,target_audience,budget,start_date,end_date
+CMP001,CSR Initiative,Email,Traffic,Returning Users,9166,2026-03-03,2026-04-17
+CMP002,Newsletter,LinkedIn,Retention,Returning Users,6290,2025-02-03,2025-05-17
+CMP003,Spring Campaign,Instagram,Retention,VIP Customers,4002,2026-10-27,2026-12-31
+CMP004,VIP Exclusive,Google Ads,Retention,VIP Customers,3494,2026-12-05,2026-12-31
+CMP005,Upsell Campaign,Twitter,Lead Generation,VIP Customers,5042,2026-03-02,2026-06-13
+CMP006,Early Bird Offer,Google Ads,Traffic,VIP Customers,2500,2025-08-12,2025-09-30
+CMP007,Mega Sale,LinkedIn,Traffic,New Users,4793,2026-05-28,2026-09-05
+CMP008,Referral Program,Instagram,Sales,Returning Users,4363,2026-03-03,2026-04-29
+CMP009,Weekend Promo,Twitter,Traffic,VIP Customers,3625,2025-06-07,2025-09-12
+CMP010,Spring Campaign,Google Ads,Sales,Returning Users,7398,2026-08-12,2026-10-18
+CMP011,Holiday Promo,LinkedIn,Retention,Returning Users,3767,2026-02-05,2026-05-12
+CMP012,Community Drive,Instagram,Sales,New Users,8982,2026-10-03,2026-11-20
+CMP013,Cross-Sell Drive,Twitter,Awareness,Returning Users,5475,2025-11-10,2025-12-12
+CMP014,Cross-Sell Drive,Instagram,Retention,New Users,5646,2026-10-04,2026-12-18
+CMP015,Summer Sale,Facebook,Retention,VIP Customers,4134,2025-03-18,2025-06-02
+CMP016,New Year Blast,Facebook,Traffic,New Users,7058,2026-06-12,2026-09-26
+CMP017,Black Friday,Twitter,Retention,Returning Users,3200,2025-11-21,2026-02-12
+CMP018,Cyber Monday,Instagram,Sales,New Users,6441,2026-06-07,2026-09-18
+CMP019,Summer Sale,Email,Traffic,New Users,5719,2025-03-11,2025-07-06
+CMP020,Black Friday,Email,Retention,VIP Customers,9470,2025-12-18,2026-01-28
+CMP021,Early Bird Offer,Facebook,Sales,New Users,3118,2025-12-09,2026-02-18
+CMP022,Remarketing Blitz,Google Ads,Traffic,VIP Customers,8078,2026-12-28,2026-12-31
+CMP023,Regional Promo,Instagram,Awareness,Returning Users,4707,2026-01-20,2026-05-03
+CMP024,SEO Boost,Email,Lead Generation,VIP Customers,4418,2026-08-29,2026-12-21
+CMP025,Remarketing Blitz,Facebook,Traffic,Returning Users,2012,2025-06-26,2025-10-06
+CMP026,Festival Promo,Instagram,Traffic,Returning Users,3175,2026-11-23,2026-12-31
+CMP027,Newsletter,Facebook,Traffic,Returning Users,8979,2026-03-13,2026-06-03
+CMP028,Cross-Sell Drive,Google Ads,Traffic,VIP Customers,5339,2025-10-11,2025-12-02
+CMP029,Mega Sale,Email,Lead Generation,New Users,3459,2026-01-08,2026-03-04
+CMP030,Cyber Monday,Facebook,Awareness,VIP Customers,9937,2026-07-05,2026-08-08
+CMP031,Retargeting,Email,Retention,Returning Users,5828,2026-07-13,2026-11-04
+CMP032,Global Awareness,Google Ads,Lead Generation,Returning Users,5310,2026-09-17,2026-11-09
+CMP033,Clearance Sale,Instagram,Awareness,Returning Users,6111,2025-08-22,2025-10-24
+CMP034,Mega Sale,Twitter,Traffic,New Users,6736,2026-08-15,2026-10-29
+CMP035,Milestone Celebration,Google Ads,Lead Generation,VIP Customers,7017,2026-08-31,2026-12-06
+CMP036,Valentine Special,Facebook,Lead Generation,VIP Customers,3628,2025-09-10,2026-01-02
+CMP037,Valentine Special,Email,Traffic,New Users,4967,2026-11-07,2026-12-30
+CMP038,Valentine Special,Facebook,Awareness,New Users,5682,2025-01-07,2025-03-15
+CMP039,Community Drive,Facebook,Retention,New Users,9851,2025-11-27,2026-03-17
+CMP040,Mega Sale,Google Ads,Traffic,New Users,5246,2026-03-28,2026-05-09
